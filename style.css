@@ -8,3 +8,29 @@
 body{
     background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
 }
+
+/* HEADER */
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 17px;
+    border-bottom: .3px solid #FFF2E7;
+}
+
+.header .image-header{
+    height: 72px;
+}
+
+.header .menu-header{
+    display: flex;
+    gap: 32px;
+}
+
+.menu-header .menu-header-item{
+    color: #FFF2E7;
+    font-family: 'Sarala', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
