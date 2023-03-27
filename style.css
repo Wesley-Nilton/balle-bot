@@ -107,3 +107,15 @@ body{
     font-weight: 300;
     font-size: 18px;
 }
+
+/* FOOTER */
+.footer{
+    padding: 32px;
+    border-top: .3px solid #FFF2E7;
+}
+
+.footer .image-footer{
+    display: block;
+    height: 48px;
+    margin: 0 auto;
+}
