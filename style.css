@@ -73,10 +73,15 @@ body{
     font-size: 20px;
     width: 180px;
     height: 60px;
+    cursor: pointer;
     border: none;
     border-radius: 20px;
     box-shadow: 4px 5px 4px #00000040;
     background-color: #ECD6C4;
+}
+
+.main-content-written .main-content-written-button:hover{
+    background-color: #d4c0b0;
 }
 
 .main-content .main-content-image{
